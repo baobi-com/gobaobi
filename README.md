@@ -6,7 +6,7 @@
 
 ## 安装
 ```shell script
-go get -u https://github.com/baobi-com/gobaobi
+go get -u github.com/baobi-com/gobaobi
 ```
 
 
